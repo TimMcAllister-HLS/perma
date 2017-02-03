@@ -35,7 +35,7 @@ Then check out the code:
 
 Start up the vagrant virtual machine in the background:
 
-    $ vagrant up
+    $ vagrant up this is some random stuff
 
 The first time this runs it will have to download the 986MB disk image.
 
